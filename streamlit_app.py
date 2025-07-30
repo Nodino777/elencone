@@ -6,7 +6,7 @@ from plotly.subplots import make_subplots
 import numpy as np
 from datetime import datetime
 
-# Configurazione della pagina
+# Configurazione della pagina 
 st.set_page_config(
     page_title="Analisi Timeseries",
     page_icon="📈",
