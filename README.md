@@ -1,4 +1,4 @@
-#  Movies dataset template
+#  Dataset template
 
 A simple Streamlit app showing data 
 
